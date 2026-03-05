@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SOLEsync/static/css/main.058f71ff.css",
-    "main.js": "/SOLEsync/static/js/main.2cfd016e.js",
-    "static/js/453.088e4b84.chunk.js": "/SOLEsync/static/js/453.088e4b84.chunk.js",
-    "index.html": "/SOLEsync/index.html",
-    "main.058f71ff.css.map": "/SOLEsync/static/css/main.058f71ff.css.map",
-    "main.2cfd016e.js.map": "/SOLEsync/static/js/main.2cfd016e.js.map",
-    "453.088e4b84.chunk.js.map": "/SOLEsync/static/js/453.088e4b84.chunk.js.map"
+    "main.css": "/stephenlyhim-maker/SOLEsync.git/static/css/main.058f71ff.css",
+    "main.js": "/stephenlyhim-maker/SOLEsync.git/static/js/main.620dfe61.js",
+    "static/js/453.088e4b84.chunk.js": "/stephenlyhim-maker/SOLEsync.git/static/js/453.088e4b84.chunk.js",
+    "index.html": "/stephenlyhim-maker/SOLEsync.git/index.html",
+    "main.058f71ff.css.map": "/stephenlyhim-maker/SOLEsync.git/static/css/main.058f71ff.css.map",
+    "main.620dfe61.js.map": "/stephenlyhim-maker/SOLEsync.git/static/js/main.620dfe61.js.map",
+    "453.088e4b84.chunk.js.map": "/stephenlyhim-maker/SOLEsync.git/static/js/453.088e4b84.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.058f71ff.css",
-    "static/js/main.2cfd016e.js"
+    "static/js/main.620dfe61.js"
   ]
 }
